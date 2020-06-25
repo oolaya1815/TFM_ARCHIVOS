@@ -1,0 +1,41 @@
+[00:56:23 - main] [GUI.java:1325] [INFO] - > Starting Cooja
+[00:56:23 - main] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
+[00:56:23 - main] [GUI.java:2876] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[00:56:23 - main] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[00:56:23 - main] [CompileContiki.java:140] [INFO] - > make udp-client.sky TARGET=sky 
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-client.sky
+[00:56:23 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [MspMote.java:232] [INFO] - Loading firmware from: /home/user/contiki/examples/powertrace/udp-server.sky
+[00:56:24 - main] [GUI.java:1771] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.SimControl
+[00:56:24 - main] [GUI.java:1771] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Visualizer
+[00:56:24 - main] [GUI.java:1771] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.LogListener
+[00:56:24 - main] [GUI.java:1771] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.TimeLine
+[00:56:24 - main] [GUI.java:1771] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Notes
+[00:56:24 - main] [Mobility.java:81] [INFO] - Mobility plugin started at (ms): 0
+[00:56:24 - main] [Mobility.java:113] [INFO] - Parsing position file: /home/user/Desktop/positions.dat
+[00:56:24 - main] [Mobility.java:138] [INFO] - Loaded 81600 positions
+[00:56:24 - main] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:56:24 - main] [LogScriptEngine.java:265] [INFO] - Script timeout in 7200000 ms
+[00:56:24 - main] [ScriptRunner.java:378] [INFO] - Test script activated
+[00:56:24 - Thread-2] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1592175384557
