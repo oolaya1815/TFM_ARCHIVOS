@@ -1,4 +1,4 @@
-## Parametros de movimiento para su uso en COOJA con el plugin Mobility
+## Generacion de parametros de movimiento para su uso en COOJA con el plugin Mobility
 
 Es necesario definir los parametros de movimiento en el archivo genConfFile.py 
 
