@@ -1,0 +1,17 @@
+CONTIKI_PROJECT = example-powertrace
+APPS+=powertrace
+all: $(CONTIKI_PROJECT)
+
+CONTIKI = ../..
+WITH_UIP6=1
+UIP_CONF_IPV6=1
+
+CFLAGS+= -DUIP_CONF_IPV6_RPL
+
+ifdef SERVER_REPLY
+CFLAGS+=-DSERVER_REPLY=$(SERVER_REPLY)
+endif
+ifdef PERIOD
+CFLAGS+=-DPERIOD=$(PERIOD)
+endif
+include $(CONTIKI)/Makefile.include
