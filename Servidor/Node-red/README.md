@@ -19,7 +19,7 @@ node -v
 
 ![nodevs](https://drive.google.com/uc?export=view&id=1viwjL7fIpvXPovvlSQaWwEtIuElITD8B) 
 
-## instalando npm
+## Instalando npm
 
 ```
 sudo apt-get install npm
@@ -34,3 +34,11 @@ sudo npm install -g --unsafe-perm node-red node-red-admin
 ```
 
 ![installnpm](https://drive.google.com/uc?export=view&id=1vr2MWyiaApF7PnrmuwyPNX5gjUOoHBwI)
+
+# Flujo usado
+
+![installnpm](https://drive.google.com/uc?export=view&id=1vrQUv8RLn1YBN-VhvivzvkgFkYPIfm8R)
+
+# Dashboard
+
+![installnpm](https://drive.google.com/uc?export=view&id=1w6u9597R-Jr4mUrUYCZ_zTBpkw1o0D9x)
