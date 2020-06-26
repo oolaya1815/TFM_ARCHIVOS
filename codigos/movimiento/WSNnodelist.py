@@ -1,6 +1,7 @@
 #encoding: iso-8859-1
 # ------------------------------------------------------------------------------
 # Author: Marcus Lunden <marcus.lunden@gmail.com>
+# Modificado para su uso en grupo familiar de vicuñas
 # 090914
 # This file is used for keeping track of the individual nodes that are simulated.
 # It's used in the generate-mobility.py RWMM sim; and it is built on some old
