@@ -1,19 +1,17 @@
 The Contiki Operating System
 ============================
 
-[![Build Status](https://secure.travis-ci.org/contiki-os/contiki.png)](http://travis-ci.org/contiki-os/contiki)
+Carpeta que contiene el sistema operativo contiki personalizado para este TFM
 
-Contiki is an open source operating system that runs on tiny low-power
-microcontrollers and makes it possible to develop applications that
-make efficient use of the hardware while providing standardized
-low-power wireless communication for a range of hardware platforms.
+Se recomienda su uso con Instan Contiki 2.7, maquina virtual preparada para ejecutar ContikiOS, se puede descargar del siguiente link: https://sourceforge.net/projects/contiki/files/Instant%20Contiki/Instant%20Contiki%202.7/
 
-Contiki is used in numerous commercial and non-commercial systems,
-such as city sound monitoring, street lights, networked electrical
-power meters, industrial monitoring, radiation monitoring,
-construction site monitoring, alarm systems, remote house monitoring,
-and so on.
+El usuario debe de remplazar el contenido de la carptea contiki ubicada en /home/
 
-For more information, see the Contiki website:
+![carpeta](https://drive.google.com/uc?export=view&id=15d6hNfyCEmNimF066bhgSedj2lgiJ8mX)
 
-[http://contiki-os.org](http://contiki-os.org)
+Estructura de fichero
+
+* Código del nodo cliente y nodo servidor: /contiki/examples/experimentosTFM
+* Código del router de borde: /contiki/examples/ipv6/rpl-border-router
+* Archivos de posición para su uso con Mobility: /contiki/examples/experimentosTFM
+* Archivos de simulación de COOJA:  /contiki/tools/cooja/
