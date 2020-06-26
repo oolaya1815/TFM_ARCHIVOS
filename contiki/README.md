@@ -15,3 +15,15 @@ Estructura de fichero
 * Código del router de borde: /contiki/examples/ipv6/rpl-border-router
 * Archivos de posición para su uso con Mobility: /contiki/examples/experimentosTFM
 * Archivos de simulación de COOJA:  /contiki/tools/cooja/
+
+## Por defecto el plugin Mobility no estara habilitado
+
+![sin mobility](https://drive.google.com/uc?export=view&id=15fIZKkE-3T69AHYXDg2DE0h682nBg_st)
+
+Para solucionar este problema bastara con habilitarlo
+
+![mobility](https://drive.google.com/uc?export=view&id=15mMxrkSxNaDDNkMjlicgC27936Kbq_hm)
+
+Al cerrar COOJA y volver a iniciar, estará ya instalado
+
+![pruebamo](https://drive.google.com/uc?export=view&id=15sNjNteglSCHVgo5ibyg4_yuI2vrxMIg)
